@@ -1,0 +1,7 @@
+float a:=23.2;
+bool b:=false;
+//int c:=b;
+floatvector 2 cc:= (2 [1.,2.]);
+intvector 2 dd:= (2 [1,2]);
+intvector 2 ee:= (2 [1,2]);
+dd := dd+ee-dd+ee+(5*ee);
